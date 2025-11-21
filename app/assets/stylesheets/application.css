@@ -26,3 +26,11 @@ body {
     color: blueviolet;
     background-color: black;
 }
+
+#audios {
+    margin: 2px;
+    padding: 5px;
+    margin-top: 200px;
+    padding-bottom: 10px;
+    text-align: center;
+}
